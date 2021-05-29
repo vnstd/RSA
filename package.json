@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "RSA",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation RSA algorithm encryption",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Andrey Batsunov <vnstd.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "^1.6.26"
+  }
+}
